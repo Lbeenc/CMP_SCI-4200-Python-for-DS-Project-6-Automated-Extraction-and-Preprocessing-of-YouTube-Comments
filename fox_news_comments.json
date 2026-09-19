@@ -1,0 +1,716 @@
+{
+  "project": "Project 6 - YouTube Comments NLP Analysis",
+  "channel_handle": "@FoxNews",
+  "video_id": "GPIn5FQnypk",
+  "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+  "data_source_used": "sample_fallback",
+  "created_utc": "2026-05-05T18:45:41.107426+00:00",
+  "comment_count": 20,
+  "fields": [
+    "username",
+    "comment_text",
+    "timestamp",
+    "like_count",
+    "video_id",
+    "video_link",
+    "source"
+  ],
+  "comments": [
+    {
+      "username": "NewsWatcher01",
+      "comment_text": "This report is important. I hope we get more clear updates soon.",
+      "timestamp": "2026-05-05T14:03:00Z",
+      "like_count": 18,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "CivicReader",
+      "comment_text": "The situation sounds serious, but the video needs more context and facts.",
+      "timestamp": "2026-05-05T14:09:00Z",
+      "like_count": 11,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "PolicyTalk",
+      "comment_text": "Good coverage. The public deserves accurate information about this story.",
+      "timestamp": "2026-05-05T14:15:00Z",
+      "like_count": 25,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "SkepticalViewer",
+      "comment_text": "I do not trust half of these breaking news clips anymore. Too much panic.",
+      "timestamp": "2026-05-05T14:21:00Z",
+      "like_count": 7,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "DailyUpdates",
+      "comment_text": "Thanks for posting this update. Please keep following the story.",
+      "timestamp": "2026-05-05T14:32:00Z",
+      "like_count": 14,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "WorldObserver",
+      "comment_text": "This is worrying. Leaders should avoid making the conflict worse.",
+      "timestamp": "2026-05-05T14:40:00Z",
+      "like_count": 9,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "MediaCheck",
+      "comment_text": "The title feels dramatic, but the details in the clip were useful.",
+      "timestamp": "2026-05-05T14:55:00Z",
+      "like_count": 6,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "PatriotVoice",
+      "comment_text": "Strong reporting today. People need to pay attention to national security.",
+      "timestamp": "2026-05-05T15:03:00Z",
+      "like_count": 31,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "QuietReader",
+      "comment_text": "I wish the comment section had less arguing and more real discussion.",
+      "timestamp": "2026-05-05T15:17:00Z",
+      "like_count": 4,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "GlobalCitizen",
+      "comment_text": "Very concerning news. Hoping for peace and responsible decisions.",
+      "timestamp": "2026-05-05T15:24:00Z",
+      "like_count": 16,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "FactFirst",
+      "comment_text": "Where are the sources for the numbers mentioned in the video?",
+      "timestamp": "2026-05-05T15:37:00Z",
+      "like_count": 5,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "Viewer2026",
+      "comment_text": "Excellent explanation from the guest. This helped me understand the issue better.",
+      "timestamp": "2026-05-05T15:49:00Z",
+      "like_count": 22,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "ConcernedTaxpayer",
+      "comment_text": "Bad news if this escalates. I am tired of crisis after crisis.",
+      "timestamp": "2026-05-05T16:02:00Z",
+      "like_count": 12,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "OpenDebate",
+      "comment_text": "Interesting segment, but I would like to hear another perspective too.",
+      "timestamp": "2026-05-05T16:13:00Z",
+      "like_count": 8,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "MorningCoffee",
+      "comment_text": "Great update. Short, direct, and easy to follow.",
+      "timestamp": "2026-05-05T16:26:00Z",
+      "like_count": 19,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "HistoryNerd",
+      "comment_text": "This reminds me of earlier international shipping disputes. Context matters.",
+      "timestamp": "2026-05-05T16:41:00Z",
+      "like_count": 3,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "NoMoreDrama",
+      "comment_text": "The coverage is too negative and makes everything sound like disaster.",
+      "timestamp": "2026-05-05T16:58:00Z",
+      "like_count": 6,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "SecurityFocus",
+      "comment_text": "National security stories are important, but accuracy is even more important.",
+      "timestamp": "2026-05-05T17:12:00Z",
+      "like_count": 20,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "CalmAnalysis",
+      "comment_text": "Helpful clip. I appreciate when the report explains what could happen next.",
+      "timestamp": "2026-05-05T17:20:00Z",
+      "like_count": 13,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    },
+    {
+      "username": "CommentReader",
+      "comment_text": "Some comments are angry, but the topic is serious and people are worried.",
+      "timestamp": "2026-05-05T17:36:00Z",
+      "like_count": 10,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback"
+    }
+  ],
+  "comments_processed": [
+    {
+      "username": "NewsWatcher01",
+      "comment_text": "This report is important. I hope we get more clear updates soon.",
+      "timestamp": "2026-05-05T14:03:00Z",
+      "like_count": 18,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "report important hope get clear updates soon",
+      "tokens": [
+        "report",
+        "important",
+        "hope",
+        "get",
+        "clear",
+        "updates",
+        "soon"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "CivicReader",
+      "comment_text": "The situation sounds serious, but the video needs more context and facts.",
+      "timestamp": "2026-05-05T14:09:00Z",
+      "like_count": 11,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "situation sounds serious video needs context facts",
+      "tokens": [
+        "situation",
+        "sounds",
+        "serious",
+        "video",
+        "needs",
+        "context",
+        "facts"
+      ],
+      "polarity": 0.0,
+      "sentiment": "neutral"
+    },
+    {
+      "username": "PolicyTalk",
+      "comment_text": "Good coverage. The public deserves accurate information about this story.",
+      "timestamp": "2026-05-05T14:15:00Z",
+      "like_count": 25,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "good coverage public deserves accurate information story",
+      "tokens": [
+        "good",
+        "coverage",
+        "public",
+        "deserves",
+        "accurate",
+        "information",
+        "story"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "SkepticalViewer",
+      "comment_text": "I do not trust half of these breaking news clips anymore. Too much panic.",
+      "timestamp": "2026-05-05T14:21:00Z",
+      "like_count": 7,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "trust half breaking news clips anymore much panic",
+      "tokens": [
+        "trust",
+        "half",
+        "breaking",
+        "news",
+        "clips",
+        "anymore",
+        "much",
+        "panic"
+      ],
+      "polarity": -1.0,
+      "sentiment": "negative"
+    },
+    {
+      "username": "DailyUpdates",
+      "comment_text": "Thanks for posting this update. Please keep following the story.",
+      "timestamp": "2026-05-05T14:32:00Z",
+      "like_count": 14,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "thanks posting update please keep following story",
+      "tokens": [
+        "thanks",
+        "posting",
+        "update",
+        "please",
+        "keep",
+        "following",
+        "story"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "WorldObserver",
+      "comment_text": "This is worrying. Leaders should avoid making the conflict worse.",
+      "timestamp": "2026-05-05T14:40:00Z",
+      "like_count": 9,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "worrying leaders avoid making conflict worse",
+      "tokens": [
+        "worrying",
+        "leaders",
+        "avoid",
+        "making",
+        "conflict",
+        "worse"
+      ],
+      "polarity": -1.0,
+      "sentiment": "negative"
+    },
+    {
+      "username": "MediaCheck",
+      "comment_text": "The title feels dramatic, but the details in the clip were useful.",
+      "timestamp": "2026-05-05T14:55:00Z",
+      "like_count": 6,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "title feels dramatic details clip useful",
+      "tokens": [
+        "title",
+        "feels",
+        "dramatic",
+        "details",
+        "clip",
+        "useful"
+      ],
+      "polarity": 0.0,
+      "sentiment": "neutral"
+    },
+    {
+      "username": "PatriotVoice",
+      "comment_text": "Strong reporting today. People need to pay attention to national security.",
+      "timestamp": "2026-05-05T15:03:00Z",
+      "like_count": 31,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "strong reporting today people need pay attention national security",
+      "tokens": [
+        "strong",
+        "reporting",
+        "today",
+        "people",
+        "need",
+        "pay",
+        "attention",
+        "national",
+        "security"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "QuietReader",
+      "comment_text": "I wish the comment section had less arguing and more real discussion.",
+      "timestamp": "2026-05-05T15:17:00Z",
+      "like_count": 4,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "wish comment section less arguing real discussion",
+      "tokens": [
+        "wish",
+        "comment",
+        "section",
+        "less",
+        "arguing",
+        "real",
+        "discussion"
+      ],
+      "polarity": -1.0,
+      "sentiment": "negative"
+    },
+    {
+      "username": "GlobalCitizen",
+      "comment_text": "Very concerning news. Hoping for peace and responsible decisions.",
+      "timestamp": "2026-05-05T15:24:00Z",
+      "like_count": 16,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "concerning news hoping peace responsible decisions",
+      "tokens": [
+        "concerning",
+        "news",
+        "hoping",
+        "peace",
+        "responsible",
+        "decisions"
+      ],
+      "polarity": 0.333,
+      "sentiment": "positive"
+    },
+    {
+      "username": "FactFirst",
+      "comment_text": "Where are the sources for the numbers mentioned in the video?",
+      "timestamp": "2026-05-05T15:37:00Z",
+      "like_count": 5,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "sources numbers mentioned video",
+      "tokens": [
+        "sources",
+        "numbers",
+        "mentioned",
+        "video"
+      ],
+      "polarity": 0.0,
+      "sentiment": "neutral"
+    },
+    {
+      "username": "Viewer2026",
+      "comment_text": "Excellent explanation from the guest. This helped me understand the issue better.",
+      "timestamp": "2026-05-05T15:49:00Z",
+      "like_count": 22,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "excellent explanation guest helped understand issue better",
+      "tokens": [
+        "excellent",
+        "explanation",
+        "guest",
+        "helped",
+        "understand",
+        "issue",
+        "better"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "ConcernedTaxpayer",
+      "comment_text": "Bad news if this escalates. I am tired of crisis after crisis.",
+      "timestamp": "2026-05-05T16:02:00Z",
+      "like_count": 12,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "bad news escalates tired crisis crisis",
+      "tokens": [
+        "bad",
+        "news",
+        "escalates",
+        "tired",
+        "crisis",
+        "crisis"
+      ],
+      "polarity": -1.0,
+      "sentiment": "negative"
+    },
+    {
+      "username": "OpenDebate",
+      "comment_text": "Interesting segment, but I would like to hear another perspective too.",
+      "timestamp": "2026-05-05T16:13:00Z",
+      "like_count": 8,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "interesting segment like hear another perspective",
+      "tokens": [
+        "interesting",
+        "segment",
+        "like",
+        "hear",
+        "another",
+        "perspective"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "MorningCoffee",
+      "comment_text": "Great update. Short, direct, and easy to follow.",
+      "timestamp": "2026-05-05T16:26:00Z",
+      "like_count": 19,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "great update short direct easy follow",
+      "tokens": [
+        "great",
+        "update",
+        "short",
+        "direct",
+        "easy",
+        "follow"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "HistoryNerd",
+      "comment_text": "This reminds me of earlier international shipping disputes. Context matters.",
+      "timestamp": "2026-05-05T16:41:00Z",
+      "like_count": 3,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "reminds earlier international shipping disputes context matters",
+      "tokens": [
+        "reminds",
+        "earlier",
+        "international",
+        "shipping",
+        "disputes",
+        "context",
+        "matters"
+      ],
+      "polarity": 0.0,
+      "sentiment": "neutral"
+    },
+    {
+      "username": "NoMoreDrama",
+      "comment_text": "The coverage is too negative and makes everything sound like disaster.",
+      "timestamp": "2026-05-05T16:58:00Z",
+      "like_count": 6,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "coverage negative makes everything sound like disaster",
+      "tokens": [
+        "coverage",
+        "negative",
+        "makes",
+        "everything",
+        "sound",
+        "like",
+        "disaster"
+      ],
+      "polarity": -1.0,
+      "sentiment": "negative"
+    },
+    {
+      "username": "SecurityFocus",
+      "comment_text": "National security stories are important, but accuracy is even more important.",
+      "timestamp": "2026-05-05T17:12:00Z",
+      "like_count": 20,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "national security stories important accuracy even important",
+      "tokens": [
+        "national",
+        "security",
+        "stories",
+        "important",
+        "accuracy",
+        "even",
+        "important"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "CalmAnalysis",
+      "comment_text": "Helpful clip. I appreciate when the report explains what could happen next.",
+      "timestamp": "2026-05-05T17:20:00Z",
+      "like_count": 13,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "helpful clip appreciate report explains happen next",
+      "tokens": [
+        "helpful",
+        "clip",
+        "appreciate",
+        "report",
+        "explains",
+        "happen",
+        "next"
+      ],
+      "polarity": 1.0,
+      "sentiment": "positive"
+    },
+    {
+      "username": "CommentReader",
+      "comment_text": "Some comments are angry, but the topic is serious and people are worried.",
+      "timestamp": "2026-05-05T17:36:00Z",
+      "like_count": 10,
+      "video_id": "GPIn5FQnypk",
+      "video_link": "https://www.youtube.com/watch?v=GPIn5FQnypk",
+      "source": "sample_fallback",
+      "cleaned_text": "some comments angry topic serious people worried",
+      "tokens": [
+        "some",
+        "comments",
+        "angry",
+        "topic",
+        "serious",
+        "people",
+        "worried"
+      ],
+      "polarity": -1.0,
+      "sentiment": "negative"
+    }
+  ],
+  "sentiment_summary": [
+    {
+      "sentiment": "positive",
+      "count": 10,
+      "percent": 50.0
+    },
+    {
+      "sentiment": "negative",
+      "count": 6,
+      "percent": 30.0
+    },
+    {
+      "sentiment": "neutral",
+      "count": 4,
+      "percent": 20.0
+    }
+  ],
+  "average_polarity": 0.167,
+  "top_words": [
+    {
+      "word": "important",
+      "count": 3
+    },
+    {
+      "word": "news",
+      "count": 3
+    },
+    {
+      "word": "report",
+      "count": 2
+    },
+    {
+      "word": "serious",
+      "count": 2
+    },
+    {
+      "word": "video",
+      "count": 2
+    },
+    {
+      "word": "context",
+      "count": 2
+    },
+    {
+      "word": "coverage",
+      "count": 2
+    },
+    {
+      "word": "story",
+      "count": 2
+    },
+    {
+      "word": "update",
+      "count": 2
+    },
+    {
+      "word": "clip",
+      "count": 2
+    },
+    {
+      "word": "people",
+      "count": 2
+    },
+    {
+      "word": "national",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "crisis",
+      "count": 2
+    },
+    {
+      "word": "like",
+      "count": 2
+    },
+    {
+      "word": "hope",
+      "count": 1
+    },
+    {
+      "word": "get",
+      "count": 1
+    },
+    {
+      "word": "clear",
+      "count": 1
+    },
+    {
+      "word": "updates",
+      "count": 1
+    },
+    {
+      "word": "soon",
+      "count": 1
+    }
+  ]
+}
